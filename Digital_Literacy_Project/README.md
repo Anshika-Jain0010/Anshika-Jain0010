@@ -3,7 +3,7 @@
 ## 👤 Student Details
 - Name: Anshika Jain
 - Registration Number: 25BAI10112 
-- Branch: B.Tech CSE (CoreL)
+- Branch: B.Tech CSE (Core)
 - Year: 1st Year  
 
 ---
